@@ -1,6 +1,6 @@
 {
-    "windows":  "https://github.com/AndreyCunha02/kairos-downloads/releases/download/v0.2.0/Kairos-setup.exe",
-    "apk":  "https://github.com/AndreyCunha02/kairos-downloads/releases/download/v0.2.0/Kairos.apk",
-    "version":  "0.2.0",
-    "notas":  "Registros dentro de registros, cartao ao passar o mouse, missoes por dia, sons, cor por registro, layout de celular novo e atualizacao pelo proprio app."
+    "windows":  "https://github.com/AndreyCunha02/kairos-downloads/releases/download/v0.2.1/Kairos-setup.exe",
+    "apk":  "https://github.com/AndreyCunha02/kairos-downloads/releases/download/v0.2.1/Kairos.apk",
+    "version":  "0.2.1",
+    "notas":  "Atalhos de adicionar nos widgets e correcao da barra do Android cobrindo o rodape."
 }
